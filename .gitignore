@@ -1,1 +1,5 @@
-.\competency_skill_estimates.csv
+competency_skill_estimates.csv
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+
