@@ -1,2 +1,0 @@
-- place competency test .metadata files here.
-- rename files to reflect subjectID or update script to pull/regex subjectIDs from file names

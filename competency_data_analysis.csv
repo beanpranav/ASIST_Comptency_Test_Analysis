@@ -1,0 +1,18 @@
+task_id,task_name,unique_skills_assessed,physical_search_walk,physical_search_obstacle,cognitive_search_pathing_decision,cognitive_search_knowledge_based,rescue_green,rescue_yellow
+1,walking straight,0,18,0,0,0,0,0
+2,open door,0,7,0,0,0,0,0
+3,turn right,0,4,0,0,0,0,0
+4,turn left,0,3,0,0,0,0,0
+5,manipulate levers,0,10,0,0,0,0,0
+6,navigate single path 1,1,34,0,0,0,0,0
+7,points recognition,4,18,0,0,1,0,0
+8,sprint straight (*repeated),0,18,0,0,0,0,0
+9,jumping,2,18,3,0,0,0,0
+10,navigate single path 2,1,23,0,0,0,0,0
+11,navigate single path 3 (*instructions unclear),0,51,3,0,1,0,0
+12,save victims 1 (linear search),3,147,0,1,0,2,1
+13,save victims 2 (forked search),3,155.5,0,2,0,1,1
+14,time recognition,4,24,0,0,1,0,0
+15,rescue green,5,0,0,0,0,1,0
+16,rescue yellow,6,0,0,0,0,0,1
+,total,,419.5,3,3,2,4,3
